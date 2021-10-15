@@ -5,7 +5,7 @@
   //tipo de dato String
   $nombre = "Ernesto";
   
-  //tipo de dato String
+  //tipo de dato Integer
   $edad = 36;
 
   //tipo de dato Float
